@@ -1,0 +1,30 @@
+{
+  "name": "@yadiganteng32/mongo-register-yadi",
+  "version": "1.0.0",
+  "description": "This is test module from typescript",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "/dist"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yadi Apriyadi",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "mongoose": "^6.4.4"
+  },
+  "devDependencies": {
+    "@types/bcrypt": "^5.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YadBro/mongo-register-yadi.git"
+  },
+  "bugs": {
+    "url": "https://github.com/YadBro/mongo-register-yadi/issues"
+  },
+  "homepage": "https://github.com/YadBro/mongo-register-yadi#readme"
+}
