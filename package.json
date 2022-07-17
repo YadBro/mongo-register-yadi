@@ -1,6 +1,6 @@
 {
   "name": "@yadiganteng32/mongo-register-yadi",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "This is test module from typescript",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
