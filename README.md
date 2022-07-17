@@ -5,3 +5,5 @@ This is a schema for register
 ```
 npm i @yadiganteng32/mongo-register-yadi
 ```
+
+[mongoose](https://github.com/Automattic/mongoose) [mongodb](https://www.mongodb.com/)
