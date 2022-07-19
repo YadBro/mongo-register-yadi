@@ -13,7 +13,6 @@ const registerSchema = new Schema({
   fullname: {type: String, required: true},
   email: {type: String, required: true},
   password: {type: String, required: true},
-  
 }, {collection: 'users'});
 
 registerSchema.pre('save', function (this: IRegister, next: () => void) {
